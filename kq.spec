@@ -32,9 +32,10 @@ wspaniała muzyka i efekty dźwiękowe.
 
 %build
 CFLAGS="-I/usr/include/lua50 %{rpmcflags}"
-%{configure}
 %{__aclocal} -I m4
 %{__autoconf}
+%{__automake}
+%configure
 %{__make}
 
 %install
