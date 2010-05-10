@@ -21,10 +21,10 @@ maps, countless item, spells and enemies, all accompanied by music and
 sound effects.
 
 %description -l pl.UTF-8
-KQ jest CRPG o otwartym kodzie źródłowym, cechującą się ośmioma
-grywalnymi postaciami oraz ponad dwudziestoma mapami. Posiada
-niezliczoną ilość rzeczy, czarów i wrogów. Wszystkiemu towarzyszy
-wspaniała muzyka i efekty dźwiękowe.
+KQ jest grą CRPG o otwartym kodzie źródłowym. Gracz ma do wyboru osiem
+postaci i ponad dwadzieścia map. W grze pojawia się niezliczona ilość
+przedmiotów, czarów, przeciwników. Wszystkiemu towarzyszy wspaniała
+muzyka i efekty dźwiękowe.
 
 %prep
 %setup -q
