@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=KQ
+Comment=Classic RPG game with castles and magic
+Comment[pl]=Klasyczna gra RPG z zamkami i magią
+Icon=kq
+Exec=kq
+Terminal=false
+Type=Application
+Categories=Game;RolePlaying;
+# vi: encoding=utf-8
