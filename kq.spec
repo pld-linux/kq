@@ -5,7 +5,7 @@ Version:	0.99
 Release:	0.1
 License:	GPL
 Group:		X11/Applications/Games
-Source0:	http://dl.sourceforge.net/kqlives/20091214/%{name}-%{version}.tar.gz
+Source0:	http://downloads.sourceforge.net/kqlives/20091214/%{name}-%{version}.tar.gz
 # Source0-md5:	0bf9614e3be3d02795fe476227ab7330
 Source1:	%{name}.desktop
 Source2:	%{name}.xpm
