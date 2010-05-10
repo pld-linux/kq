@@ -31,7 +31,6 @@ wspaniała muzyka i efekty dźwiękowe.
 %{__sed} 's/luac/luac50/g' -i scripts/Makefile.{am,in}
 
 %build
-CFLAGS="-I/usr/include/lua50 %{rpmcflags}"
 %{__aclocal} -I m4
 %{__autoconf}
 %{__automake}
