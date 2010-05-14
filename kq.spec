@@ -11,8 +11,12 @@ Source1:	%{name}.desktop
 Source2:	%{name}.xpm
 URL:		http://kqlives.sourceforge.net/
 BuildRequires:	allegro-devel >= 4.2.1
+BuildRequires:	autoconf
+BuildRequires:	automake
 BuildRequires:	dumb-devel
+BuildRequires:	lua50
 BuildRequires:	lua50-devel
+BuildRequires:	pkgconfig
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
