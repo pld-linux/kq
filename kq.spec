@@ -2,7 +2,7 @@ Summary:	Classic RPG game with castles and magic
 Summary(pl.UTF-8):	Klasyczna gra RPG z zamkami i magią
 Name:		kq
 Version:	0.99
-Release:	0.1
+Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	http://downloads.sourceforge.net/kqlives/20091214/%{name}-%{version}.tar.gz
